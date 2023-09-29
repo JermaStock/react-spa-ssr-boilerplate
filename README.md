@@ -1,4 +1,4 @@
-# ssr + spa + hmr, react + ts boilerplate
+# React Spa Ssr Boilerplate Code
 
 Шаблон для Single Page Application на React + TypeScript с поддержкой Hot Module Replacement и Server Side Rendering.
 
@@ -6,5 +6,4 @@
 
 `````` 
 npm run dev запустить dev сервер с hmr (внесение изменений без перезагрузки страницы)
-
 ``````
