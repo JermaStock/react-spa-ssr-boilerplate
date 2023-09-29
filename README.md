@@ -1,4 +1,4 @@
-# React Spa Ssr Boilerplate Code
+# TS React  SPA SSR Boilerplate Code
 
 Шаблон для Single Page Application на React + TypeScript с поддержкой Hot Module Replacement и Server Side Rendering.
 
